@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 64" role="img" aria-label="Chris Kenst">
+  <rect width="360" height="64" rx="8" fill="#10213a"/>
+  <path d="M32 45c-8.8 0-15-6.4-15-15s6.2-15 15-15c5.8 0 10.7 2.9 13.2 7.5l-5.7 3.3c-1.4-2.9-4.1-4.7-7.5-4.7-5.1 0-8.6 3.7-8.6 8.9s3.5 8.9 8.6 8.9c3.4 0 6.2-1.8 7.6-4.7l5.7 3.3C42.8 42.1 37.9 45 32 45Z" fill="#ffffff"/>
+  <path d="M58 44h-7V16h7v11.3L68.2 16h8.5L64.4 29.4 77.3 44h-8.7L58 31.8V44Z" fill="#84d2ff"/>
+  <text x="96" y="39" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Chris Kenst</text>
+  <text x="228" y="39" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="600" fill="#9ed7b5">DevRel Portfolio</text>
+</svg>
